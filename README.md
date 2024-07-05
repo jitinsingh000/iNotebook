@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# iNotebook MERN Web Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is for taking notes with login-signup functionality and it is made using MERN stack and JWT and Bcrypt JS etc.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+In the project we have features like:
 
-### `npm start`
+### `Registering User`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![alt text](./src/images/iNotebook%20Project%20Images/register%20user.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+### `Logging In User`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![alt text](./src/images/iNotebook%20Project%20Images/user%20login.png)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### `Add or Remove and Edit Notes`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![alt text](./src/images/iNotebook%20Project%20Images/adding%20and%20viewing%20notes.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### `Showing Alerts on Actions`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![alt text](./src/images/iNotebook%20Project%20Images/showing%20alerts.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### `Responsive Design Compatible with all screen sizes`
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+For Example in Portable Device (Phone) it will look like:
 
-## Learn More
+![alt text](./src/images/iNotebook%20Project%20Images/responsive.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Steps To Run this project as localhost
 
-### Code Splitting
+Follow these steps:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### `Clone Git Repo`
 
-### Analyzing the Bundle Size
+    And also remember to install all depencies required with same or compatible versions of packages.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### `in iNotebook directory:`
 
-### Making a Progressive Web App
+     Run command 'npm run start'
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### `Add or Remove and Edit Notes`
 
-### Advanced Configuration
+    To use this project in localhost use mongoDB to connect to database after creating mongoDB Database and replace mongoURI of project with your own mongoURI
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
