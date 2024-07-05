@@ -1,6 +1,6 @@
 # iNotebook MERN Web Application
 
-This project is for taking notes with login-signup functionality and it is made using MERN stack and JWT and Bcrypt JS etc.
+This project is for taking notes with login-signup functionality and it is made using MERN stack and JWT and Bcrypt JS etc. It uses React Router for routing which makes it single page it does not reload on clicks.
 
 ## Features
 
